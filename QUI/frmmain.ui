@@ -96,7 +96,7 @@
          <string notr="true">font: 10pt &quot;微软雅黑&quot;;</string>
         </property>
         <property name="text">
-         <string>自定义UI演示(作者:刘典武 QQ:517216493)</string>
+         <string>自定义UI</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
