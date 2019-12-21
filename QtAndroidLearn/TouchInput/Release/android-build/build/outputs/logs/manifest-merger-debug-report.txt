@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:1-85:12
+INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:1-85:12
+INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:1-85:12
+INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:1-85:12
+INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:11-42
+	android:versionName
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:102-127
+		INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml
+		INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:43-101
+	android:versionCode
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:128-151
+		INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml
+		INJECTED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml
+	android:installLocation
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:2:152-182
+uses-sdk
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:3:42-71
+	android:minSdkVersion
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:3:15-41
+uses-permission#android.permission.INTERNET
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:7:9-71
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:7:26-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:9:22-76
+uses-feature#0x00020000
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:14:9-82
+	android:glEsVersion
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:14:23-55
+	android:required
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:14:56-79
+supports-screens
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:16:5-135
+	android:largeScreens
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:16:23-50
+	android:smallScreens
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:16:106-133
+	android:normalScreens
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:16:51-79
+	android:anyDensity
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:16:80-105
+application
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:18:5-83:19
+	android:label
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:18:117-143
+	android:hardwareAccelerated
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:18:18-52
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:18:53-116
+activity#org.qtproject.qt5.android.bindings.QtActivity
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:9-79:16
+	android:screenOrientation
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:277-316
+	android:label
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:250-276
+	android:launchMode
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:317-347
+	android:configChanges
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:19-188
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:19:189-249
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:22:27-74
+meta-data#android.app.lib_name
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:29:13-88
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:29:60-86
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:29:24-59
+meta-data#android.app.qt_sources_resource_id
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:30:13-112
+	android:resource
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:30:74-110
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:30:24-73
+meta-data#android.app.repository
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:31:13-87
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:31:62-85
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:31:24-61
+meta-data#android.app.qt_libs_resource_id
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:32:13-106
+	android:resource
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:32:71-104
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:32:24-70
+meta-data#android.app.bundled_libs_resource_id
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:33:13-116
+	android:resource
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:33:76-114
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:33:24-75
+meta-data#android.app.bundle_local_qt_libs
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:35:13-91
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:35:72-89
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:35:24-71
+meta-data#android.app.bundled_in_lib_resource_id
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:36:13-120
+	android:resource
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:36:78-118
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:36:24-77
+meta-data#android.app.bundled_in_assets_resource_id
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:37:13-126
+	android:resource
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:37:81-124
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:37:24-80
+meta-data#android.app.use_local_qt_libs
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:39:13-88
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:39:69-86
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:39:24-68
+meta-data#android.app.libs_prefix
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:40:13-100
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:40:63-98
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:40:24-62
+meta-data#android.app.load_local_libs
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:41:13-193
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:41:67-191
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:41:24-66
+meta-data#android.app.load_local_jars
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:42:13-126
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:42:67-124
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:42:24-66
+meta-data#android.app.static_init_classes
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:43:13-89
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:43:71-87
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:43:24-70
+meta-data#android.app.ministro_not_found_msg
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:47:13-122
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:47:24-70
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:47:71-120
+meta-data#android.app.ministro_needed_msg
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:48:13-116
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:48:24-67
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:48:68-114
+meta-data#android.app.fatal_error_msg
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:49:13-108
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:49:24-63
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:49:64-106
+meta-data#android.app.unsupported_android_version
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:50:13-132
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:50:24-75
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:50:76-130
+meta-data#android.app.background_running
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:63:13-93
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:63:70-91
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:63:24-69
+meta-data#android.app.auto_screen_scale_factor
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:67:13-99
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:67:76-97
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:67:24-75
+meta-data#android.app.extract_android_style
+ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:77:13-98
+	android:value
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:77:73-96
+	android:name
+		ADDED from H:\code\qt_andriod\TouchInput\Release\android-build\AndroidManifest.xml:77:24-72
