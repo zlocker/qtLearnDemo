@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>extra/MyRectangle4.qml</file>
+    </qresource>
+</RCC>

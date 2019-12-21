@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DataShowTable.qml</file>
+        <file>ItemDelegate.qml</file>
+        <file>dir/MyRectangle3.qml</file>
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/MyComponent">
+        <file>MyRectangle.qml</file>
+        <file>mycomponents/MyRectangle2.qml</file>
+    </qresource>
+</RCC>
