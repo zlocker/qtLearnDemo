@@ -32,3 +32,8 @@ Copyright
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 
   
+使用此插件与其他不同的是
+      采用QT打开该工程，运行后：
+      库文件所在路径为：Debug/lib/
+      添加到Qt设计师工程的库文件路径为： Debug/designer/plugins/designer
+      头文件路径为：qwt-6.1.4/src
