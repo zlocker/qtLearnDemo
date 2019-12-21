@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/background.png</file>
+        <file>image/icon.jpg</file>
+        <file>RadioImage.qml</file>
+        <file>image/add.png</file>
+        <file>image/qr.png</file>
+        <file>StyleButton.qml</file>
+        <file>Field.qml</file>
+        <file>image/fork.png</file>
+        <file>image/minu.png</file>
+        <file>image/pulldown.png</file>
+        <file>image/safe.png</file>
+        <file>BackColor.qml</file>
+        <file>image/false.png</file>
+        <file>image/true.png</file>
+    </qresource>
+</RCC>
