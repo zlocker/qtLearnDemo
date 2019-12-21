@@ -1,0 +1,14 @@
+debug/main.o
+debug/audiorecorder.o
+debug/messengerConnection.o
+debug/scanner.o
+debug/accessPointModel.o
+debug/pointSizeToPixelSize.o
+debug/messengerManager.o
+debug/qrc_qml.o
+debug/moc_audiorecorder.o
+debug/moc_messengerConnection.o
+debug/moc_scanner.o
+debug/moc_accessPointModel.o
+debug/moc_pointSizeToPixelSize.o
+debug/moc_messengerManager.o

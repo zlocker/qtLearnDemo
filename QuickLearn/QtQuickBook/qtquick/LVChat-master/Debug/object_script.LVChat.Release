@@ -1,0 +1,14 @@
+release/main.o
+release/audiorecorder.o
+release/messengerConnection.o
+release/scanner.o
+release/accessPointModel.o
+release/pointSizeToPixelSize.o
+release/messengerManager.o
+release/qrc_qml.o
+release/moc_audiorecorder.o
+release/moc_messengerConnection.o
+release/moc_scanner.o
+release/moc_accessPointModel.o
+release/moc_pointSizeToPixelSize.o
+release/moc_messengerManager.o
