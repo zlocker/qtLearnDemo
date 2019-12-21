@@ -9,4 +9,4 @@
 	alwaysRunToEnd :true
 	from: "red"
 	to: "white"; duration: 500 }
-  }
+ }
