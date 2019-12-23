@@ -1,0 +1,30 @@
+-- 创建一个名称为info的数据库。
+create database info;
+
+-- 删除数据库info
+-- drop database info;
+
+-- 使用数据库 info
+use info;
+
+-- 创建表
+-- create table student(id int primary key auto_increment, name varchar(255), age int, score int);
+create table student(id int primary key, name varchar(255), age int, score int);
+
+-- 删除student表
+-- drop table student;
+
+-- 插入数据
+insert into student(id, name, age) values(1, 'mike', 18);
+insert into student(id, name, age, score) values(2, 'lucy', 22, 90);
+insert into student(id, name, age, score) values(3, 'Tom', 20, 78);
+
+-- 更新数据
+update student set score = 90 where id = 3;
+
+-- 查找数据
+select * from student;
+select score from student where name = 'mike';
+
+-- 删除数据库
+delete from student where name = 'mike';
