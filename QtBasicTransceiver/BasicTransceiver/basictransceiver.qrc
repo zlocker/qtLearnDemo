@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clean.png</file>
+        <file>images/win.png</file>
+        <file>images/close.png</file>
+        <file>images/empty_bin.png</file>
+        <file>images/exit.png</file>
+        <file>images/find.png</file>
+        <file>images/find_it.png</file>
+        <file>images/open.png</file>
+        <file>images/send.png</file>
+        <file>images/to_zero.png</file>
+        <file>images/about.png</file>
+        <file>images/read.png</file>
+        <file>images/select_file.png</file>
+        <file>images/write.png</file>
+        <file>basic_transceiver.ico</file>
+    </qresource>
+</RCC>
