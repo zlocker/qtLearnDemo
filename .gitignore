@@ -1,3 +1,4 @@
 #忽略debug文件夹
 Debug
+Release
 *.user
